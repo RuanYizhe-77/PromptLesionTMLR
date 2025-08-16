@@ -1,0 +1,16 @@
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_33.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_33.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_76.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_76.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_118.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_118.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_97.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_97.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_7.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_7.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_113.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_113.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_31.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_31.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_64.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_64.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_84.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_84.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_82.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_82.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_57.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_57.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_26.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_26.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_100.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_100.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_53.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_53.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_28.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_28.nii.gz
+/data/utsubo0/users/ruan/Task03_Liver/imagesTr/liver_67.nii.gz /data/utsubo0/users/ruan/preprocessed_labels/liver_tumor/liver_67.nii.gz
