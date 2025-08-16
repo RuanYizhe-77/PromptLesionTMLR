@@ -168,9 +168,16 @@ python -W ignore validation.py --model=unet --data_root $datapath --datafold_dir
 
 
 ```
+## CCTA Preprocessing
+
+```bash
+## We provide a script to convert CCTA tiff files to NIfTI format.
+python tif2nifti.py ## change your input dir and output dir in tif2nifti.py
+```
 ## Pre-trained Models
 ### CCTA Models
 ### 1.Usage Notes for CCTA Pretrained Weights
+
 We provide the pretrained model weights of Autoencoder model and Promplesion model trained on our private CCTA dataset, you can download them from the following links: https://drive.google.com/drive/folders/1mlQ7BD9Gchedz5kEHM4Lz36LNX-ZhkL8?usp=drive_link
 
 ### 2.Important Recommendation:
